@@ -1,1 +1,1 @@
-print('Projeto em Python com versonamento no GitHub! - Aleteração')
+print('Projeto em Python com versonamento no GitHub! - Aleteração - DEV')
